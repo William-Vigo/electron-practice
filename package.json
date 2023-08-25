@@ -1,0 +1,18 @@
+{
+  "name": "image-resizer",
+  "productName": "Image resizer",
+  "version": "1.0.0",
+  "description": "app to resize image dimensions",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "William Vigo",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^26.1.0",
+    "electronmon": "^2.0.2",
+    "resize-img": "^2.0.0",
+    "toastify-js": "^1.12.0"
+  }
+}
